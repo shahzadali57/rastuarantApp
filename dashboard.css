@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(../myApp/images/dash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.burg{
+    margin-left: 950px; 
+    margin-top: 70px; 
+    width: 600px; 
+    height: 400px; 
+    position: absolute;
+}
+
+h1{
+    /* position: relative; */
+    text-align: justify;
+    margin-left: 400px;
+    margin-top: 200px;
+    position: fixed;
+}
